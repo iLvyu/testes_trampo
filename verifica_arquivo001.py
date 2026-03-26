@@ -3,7 +3,7 @@ import pandas as pd
 
 # ===== CONFIGURAÇÕES =====
 caminho_excel = r"C:\fritando_neuronios\dev_mondial\teste_automacao\arquivos_teste\ambiente_leitura\ex_n_container.xlsx"
-pasta_arquivos = r"R:\COMEX\MK BAHIA\REMOÇÃO\Minutas\2026"
+pasta_arquivos = r""
 
 coluna_nome = "Nr. Container"  # coluna com os números de container
 coluna_status = "Status"  # coluna onde será escrito o OK
